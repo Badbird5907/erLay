@@ -504,12 +504,14 @@ Some assembly, lots of 3D printing, more manufacturing.
 Setting up the pis, klipper, and assembling the electronics.
 *MLH gave me a defective pi zero :(*
 
-# May 3-4
-Aaron: 12h
-## Aaron
+# May 3-5
+Aaron: 17h
+Evan: 17h
+
+## Evan & Aaron
+Went to Aaron's house and brought all the electronics, assembled most of the toolhead, base, and cut out some polycarbonate.
+Brought the toolhead home to solder on longer wires for the fans (not proud of the soldering job but I think it works.)
+
 A lot of assembly, 3d printing. Again, Stainless is a pain to work with, do not recommend. 
 
 Way too much filing. Spent too long looking for a lost linear bearing (Found it yay!)
-
-
-
