@@ -515,3 +515,50 @@ Brought the toolhead home to solder on longer wires for the fans (not proud of t
 A lot of assembly, 3d printing. Again, Stainless is a pain to work with, do not recommend. 
 
 Way too much filing. Spent too long looking for a lost linear bearing (Found it yay!)
+
+# May 6-7
+Aaron: 7h
+Evan: 8h
+Part fitting. Reprinting redesigning. Lots of issues with intersecting geometry. Lots of parts breaking or failing. 
+
+Issues:
+Linearing Bearing binding. 
+Part of it is bad linear rails. Part of it was bad design
+
+# May 9th
+Aaron: 5h
+Evan: 6h
+
+The final reprint was done. Everything fits.
+
+main problem over the past couple days was with the below part. Mounting holes were misaligned, the bolt went into the space of the motor, and the part warping then being unusable on the printer.
+
+![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3ab2944f1db4789333b76b79c1fed5b5bf658a1c_20250511_200609.jpg)
+
+# May 10th
+Aaron: 15h
+Evan: 15h
+
+Assembled the entire thing. Gantry, Z axis, Belts. Just everything.
+Spent a lot of time debugging various issues including a bad power supply, endstops, and the Z axis levering.
+Were up until 4am working on it.
+Evan also was a dumbass and snapped a portion of the right motor mount. (image above)
+
+# May 11th
+Aaron: 12h
+Evan: 12h
+
+Lots of tuning and fiddling with the Z Axis.
+Configured Klipper. End Stops, Fans, Heaters, Motors. Again everything.
+
+First Print attempt did not work b/c of over extrusion.
+After a lot of tuning, we got a proper benchy to print.
+
+The printer currnetly has a couple issues, including Z wobble, the print bed being uneven, and some other minor printing defects.
+We've ordered a magnetic sheet to cut out and put on the bed to help with the unevenness, and a gyroscope to help with the Z wobble.
+
+![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ce9e669ed77d713c81e719366b70bf7d69e20677_20250511_204757.jpg)
+![benchy](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9fea451fa7e651591ee5b2c9015fd29dc7a98a0d_20250511_195437.jpg)
+
+Video (the two blower fans contribute to some really good part cooling):
+![video](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a2fc52b667a2307e90e04f1174318839fc1645ed_20250511_194343.mp4)
