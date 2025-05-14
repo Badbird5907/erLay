@@ -26,4 +26,5 @@ As you will notice, most of the frame is built out of linear rods. I was inspire
 
 # Sponsors
 ![polymaker-colored-logo-proportioned](https://github.com/user-attachments/assets/84dc3a07-88ae-4ef1-a6cf-d2ce2e3e5598)
+
 Massive thanks to PolyMaker for sponsoring erLay!
